@@ -1,0 +1,1 @@
+This program implements ray-casting algorithm to create basic version of Wolfenstein 3D game. Refer to screenshot files.

@@ -1,0 +1,1 @@
+This program fits Tetriminos together to shape the smallest possible square.

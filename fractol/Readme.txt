@@ -1,0 +1,1 @@
+This program draws different types of fractals. Refer to screenshot files.

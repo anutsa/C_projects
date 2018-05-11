@@ -1,0 +1,1 @@
+This program implements raytracing algorithm to draw simple geometric objects in 3D. Refer to screenshot files.
